@@ -1,4 +1,24 @@
 # React + Vite
+# React Tic Tac Toe
+
+A simple Tic Tac Toe game built with React.
+
+## Features
+- Interactive UI
+- Winner detection
+- Turn tracking
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Installation
+
+git clone https://github.com/Dammrow/react-TicTacToe
+cd tictactoe
+npm install
+npm start
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
